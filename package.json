@@ -1,0 +1,26 @@
+{
+  "name": "guide",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/My-Web-Designer/Guide.git"
+  },
+  "author": "Mani Chandu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/My-Web-Designer/Guide/issues"
+  },
+  "homepage": "https://github.com/My-Web-Designer/Guide#readme",
+  "dependencies": {
+    "bootstrap": "^4.3.1",
+    "jquery": "^3.4.1"
+  },
+  "devDependencies": {
+    "@fortawesome/fontawesome-free": "^5.9.0"
+  }
+}
